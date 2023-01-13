@@ -3,9 +3,9 @@ const router = require('express').Router();
 // connect to api routes
 const apiRoutes = require('./api');
 // connect to homepage
-const homeRoutes = require(); 
+const homeRoutes = require('./homeRoutes'); 
 // connect to dashboard
-const dashboardRoutes = require();
+const dashboardRoutes = require('./dashboardRoutes');
 // path to api routes
 router.use('./api', apiRoutes);
 // path to homepage
