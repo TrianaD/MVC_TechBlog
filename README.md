@@ -63,6 +63,8 @@ User will need to install dotenv, express, mysql2, and sequelize. To install go 
 * Node.js
 * mysql2 Package
 * dotenv Package
+* express Package
+* sequelize 
 
 
 ## USAGE 
@@ -73,47 +75,11 @@ The following screenshots show examples of the interaction and options presented
 ## STEPS for USAGE
 
 
-Database creation in Workbench:
+place holder location for images
 
 ![showing database creation with tables](./assests/db_created_tables.png)
 
-Tables created by using following command in terminal: ![showing run seed](./assests/run_seed.png)
 
-After running all seed files, run the following command: ![showing node command](./assests/node_server.png)
-
-The images below shows some examples of the various commands and outputs using insomnia:
-
-Category - All
-
-![showing categories output](./assests/get_categories.png)
-
-Product - All
-
-![showing products output](./assests/get_products.png)
-
-Tag - All
-
-![showing tags output](./assests/get_tags.png)
-
-
-Category - By Id
-
-![showing categories by id output](./assests/get_categories_byID.png)
-
-Product - By Id
-
-![showing products by id output](./assests/get_products_byID.png)
-
-Tag - By Id
-
-![showing tags by id output](./assests/get_tags_byID.png)
-
-
-Using Insomina a folder structure was created to run through all the different commands as needed for creating, updated, and deleting as well as seeing updates through each stage. 
-
-![showing folder structure within Insomnia](./assests/various_requests_layout.png)
-
-A video recording goes through all the steps to show how to obtain all the various table information. 
 
 Link found below in the link section. 
 
@@ -124,7 +90,7 @@ Link found below in the link section.
 
 Link to GitHub:
 
-[GitHub Documentation](https://github.com/TrianaD/ecommerce_backend)
+[GitHub Documentation](https://github.com/TrianaD/MVC_TechBlog)
 
 
 
